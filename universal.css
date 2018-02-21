@@ -1,0 +1,65 @@
+body {
+/*    background-color: #D5BA74*/
+    background-color: #EAD4AA;
+}
+
+.table-bordered {
+    border-style: solid;
+    border-color: black;
+}
+
+#player {
+    text-decoration: underline;
+}
+
+.card {
+    align-self: center;
+}
+
+#playerTable {
+    background-color:  #F4F3ED;
+    color: #8B2332;
+    border-color: #FDB813;
+}
+
+#modalName {
+    width: 100%;
+    text-align: center;
+    font-weight: 500;
+}
+
+#player:hover {
+    cursor: pointer;
+}
+.schedule thead{
+    background-color: #343A40;
+    color: white;
+}
+
+.schedule tbody{
+    background-color: darkgray;
+}
+
+.tie{
+    background-color: gray;
+    color: white;
+}
+
+.win {
+    background-color: darkgreen;
+    color:white;
+}
+
+.loss {
+    background-color: maroon;
+    color: white;
+}
+.jumbotron {
+	background-color: black;
+	color: white;
+}
+
+.c_image{
+    max-width: 80%;
+    height: auto;
+}
